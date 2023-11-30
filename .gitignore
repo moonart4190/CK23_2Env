@@ -76,4 +76,4 @@ DonghoTeam/DerivedDataCache/*
 
 
 #Cumstom Ignore
-DonghoTeam/Saved/Logs/DonghoTeam.log
+DonghoTeam/Saved/Logs/*.log
